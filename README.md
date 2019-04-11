@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-python-orange.svg)
+
 # Multi-DDPG-with-parameter-noise on OpenAI games in Pytorch
 
 ![original image](./1.png)  
