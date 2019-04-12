@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
-![](https://img.shields.io/badge/Price-FREE-green.svg)
+[![](https://img.shields.io/badge/常联系-click_for_contact-green.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 [![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
 # Multi-DDPG-with-parameter-noise on OpenAI games in Pytorch
